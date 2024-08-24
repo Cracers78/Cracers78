@@ -1,0 +1,8 @@
+README.md
+LICENSE
+Makefile
+bip39_wordslist_en.txt
+bruteforce.py
+requirements.txt
+test_bruteforce.py
+.gitignore
